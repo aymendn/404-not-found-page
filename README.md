@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](thu.png)
+![screenshot](image.png)
 
 A 404 page UI with a Scarecrow image.
 
